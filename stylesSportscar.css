@@ -17,3 +17,16 @@ td {
     text-align: center;
     border: 1px solid black;
 }
+
+.notes {
+    padding-top: 7px;
+}
+
+.car {
+    width: 300px;
+}
+
+.middle-car {
+    margin-left: 10px;
+    margin-right: 10px;
+}
